@@ -15,7 +15,7 @@ Interested? Contact me on LinkedIn!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
-## :point_down:	 Projects :point_down:	
+## :point_down:	:round_pushpin: Pinned projects	:round_pushpin: :point_down:	
 
 [1]: https://www.linkedin.com/in/jonathanschierbaum/
 
