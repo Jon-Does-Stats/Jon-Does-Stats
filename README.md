@@ -3,7 +3,7 @@
 
 ## 👋 Hey friends! 👋
 
-I'm Jonathan, an aspiring data scientist and a recent M.S. Statistics grad.   I sincerely love spatiotemporal statistics and data visualization, and I've created this digital showcase to ensnare like-minded individuals and trap them in collaboration. Poke around the projects here and share your thoughts and suggestions. 
+I'm Jonathan, an aspiring data scientist and a recent M.S. Statistics grad.   I sincerely love spatiotemporal statistics and data visualization, and I've created this digital showcase to ensnare like-minded individuals and trap them in collaboration. Poke around the projects below and share your thoughts and suggestions. 
 
 ## :unicorn: I'm seeking employment! :unicorn:
 
@@ -15,5 +15,7 @@ Interested? Contact me on LinkedIn!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
+## :point_down:	 Projects :point_down:	
 
 [1]: https://www.linkedin.com/in/jonathanschierbaum/
+
